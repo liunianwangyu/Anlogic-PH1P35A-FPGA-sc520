@@ -1,0 +1,17 @@
+# Default deny: only the reviewed documentation files are allowed.
+# This protects Git add operations, not manual browser uploads.
+*
+!/.gitignore
+!/README.md
+!/DISCLOSURE.md
+!/THIRD_PARTY.md
+!/docs/
+/docs/*
+!/docs/FEATURES.md
+!/docs/SYSTEM_OVERVIEW.md
+!/docs/VALIDATION.md
+!/docs/DEMO.md
+!/docs/SUBMISSION.md
+!/assets/
+/assets/*
+!/assets/README.md
